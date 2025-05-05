@@ -75,4 +75,8 @@ A detailed written report (10+ pages) is included here:
 
 ## 🗂️ Project Structure
 https://colab.research.google.com/drive/11u-licX_kM75Q_Fg7ox6FIbKmpHJBAmc?usp=sharing
+## 📄 Final Report  
+You can view/download the final report here:  
+👉 [ISOM835_Term_Project_Jesika_Raval.docx](./ISOM835_Term_Project_Jesika_Raval.docx)
+
 
