@@ -44,10 +44,7 @@ This project applies predictive analytics techniques to classify patients at ris
 
 ---
 
-## 🔗 How to Run the Notebook
 
-👉 Open the project notebook in Google Colab here:  
-[🔗 Google Colab Notebook](https://colab.research.google.com/drive/1NgtWY3K14Hn5mIsAijRX5SiE0OA_nPXA?usp=sharing)
 
 **Steps:**
 1. Click the link above to open the notebook in Google Colab.
