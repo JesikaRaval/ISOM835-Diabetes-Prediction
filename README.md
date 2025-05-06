@@ -1,6 +1,6 @@
 # ISOM835-Diabetes-Prediction
 Predictive Modeling using the Pima Indians Diabetes Dataset
-# 🧠 Predictive Modeling for Diabetes Risk  
+#  Predictive Modeling for Diabetes Risk  
 **Course:** ISOM 835 – Predictive Analytics and Machine Learning  
 **Instructor:** Hasan Arslan  
 **Student:** Jesika Raval  
