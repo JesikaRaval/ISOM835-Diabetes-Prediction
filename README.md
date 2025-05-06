@@ -64,8 +64,6 @@ A detailed written report (10+ pages) is included here:
 ## 🗂️ Project Structure
 https://colab.research.google.com/drive/11u-licX_kM75Q_Fg7ox6FIbKmpHJBAmc?usp=sharing
 
-![image](https://github.com/user-attachments/assets/87e7e7bf-d0c6-4787-b768-72d88dc1290f)
-
 
 
 
