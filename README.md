@@ -44,15 +44,6 @@ This project applies predictive analytics techniques to classify patients at ris
 
 ---
 
-
-
-**Steps:**
-1. Click the link above to open the notebook in Google Colab.
-2. Run each cell in order to see preprocessing, modeling, and evaluation steps.
-3. You can modify code or use your own dataset for experimentation.
-
----
-
 ## 📊 Visualizations Folder
 
 The repo includes a `visualizations/` folder with:
